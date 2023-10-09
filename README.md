@@ -1,5 +1,5 @@
 # Medical Insurance Cost Prediction
-Medical Insurance Cost Prediction using Random Forest Regressor.
+Medical Insurance Cost Prediction using Gradient boost Regressor.
 
 # Dataset
 The dataset used can be downloaded here (Kaggle) 
