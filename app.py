@@ -20,7 +20,7 @@ model = model_load('model.pkl')
 st.image('istockphoto-868640146-1024x1024.jpg', width=400)
 
 # Title
-st.title('Medical Charge predictor')
+st.title('Medical Insurance cost predictor')
 st.markdown('#### This model can predict Medical charges with an accuracy score of 90%')
 
 # input field
