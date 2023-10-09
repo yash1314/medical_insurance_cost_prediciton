@@ -23,5 +23,8 @@ To run the project locally, please ensure you have the following dependencies in
 - Matplotlib
 - Jupyter Notebook
 
+# Testing
+To access the web app follow the link -> https://medicalinsurancecostprediciton-ziaoxwqqz9wq5zqeua6eyc.streamlit.app/
+
 # Results
 The results of the Medical cost prediction are evaluated based on various metrics such as mean absolute error (MAE), root mean squared error (RMSE), and R-squared score. These metrics provide insights into the performance of the model and how well it predicts cost.
