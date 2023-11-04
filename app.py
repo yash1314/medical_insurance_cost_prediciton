@@ -25,7 +25,7 @@ st.markdown('#### This model can predict Medical charges with an accuracy score 
 
 # input field
 st.markdown("#### Age")
-age = st.text_input('')
+age = st.text_input('Age: ')
 
 st.markdown('#### Gender')
 gender = st.text_input("Male-1, female-0")
